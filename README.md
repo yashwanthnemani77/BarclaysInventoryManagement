@@ -45,6 +45,7 @@ updateSell Food01 5
 updateSell Mobile01 4
 updateSell Med01 10
 report
+
 #
 Expected Output
               	INVENTORY REPORT
